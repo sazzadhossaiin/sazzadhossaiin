@@ -6,8 +6,6 @@ I'm a computer science undergraduate student who is currently focusing on improv
 
 🧑‍💻 I’m currently learning artifical intelligence
 
-👀 I’m interested in cyber security
-
 🤝 I’m looking to collaborate on open source projects.
 
 📫 Pronouns: he/him/his
